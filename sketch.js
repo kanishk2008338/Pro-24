@@ -56,7 +56,7 @@ function draw() {
   
   ball1.display();
   ground.display();
-  
+  keyPressed();
 
 
   drawSprites();
